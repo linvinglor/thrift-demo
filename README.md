@@ -1,6 +1,6 @@
 # thrift-demo
 -------
-## 安装依赖
+## 安装thrift
 ```shell
 brew install thrift
 ```
